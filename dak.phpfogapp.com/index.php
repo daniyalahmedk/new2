@@ -1,3 +1,3 @@
   <?php
 
-echo"new commit"; ?>
+echo"change from github"; ?>
